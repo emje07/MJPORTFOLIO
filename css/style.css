@@ -19,7 +19,7 @@ html{
     background-repeat: no-repeat;
     background-size: cover;
     filter: blur(1px);
-    background: url("/blob/main/images/bg.jpg");
+    background-image: url("/blob/main/images/bg.jpg");
 }
 .profile{
     position: relative;
