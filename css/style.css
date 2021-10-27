@@ -19,7 +19,7 @@ html{
     background-repeat: no-repeat;
     background-size: cover;
     filter: blur(1px);
-    background-image: url("images/bg.jpg");
+    background-image: url("https://github.com/emje07/mjportfolio/blob/main/images/bg.jpg");
 }
 .profile{
     position: relative;
