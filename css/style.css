@@ -19,7 +19,7 @@ html{
     background-repeat: no-repeat;
     background-size: cover;
     filter: blur(1px);
-    background-image: url("https://github.com/emje07/mjportfolio/blob/main/images/michealjohnmarcine.png");
+    background-image: url("images/bg.jpg");
 }
 .profile{
     position: relative;
